@@ -1,0 +1,30 @@
+{
+    "name": "init-bower",
+    "version": "1",
+    "description": "Test init Bower - Alefe Variani",
+    "main": "",
+    "moduleType": [],
+    "keywords": [
+        "api"
+    ],
+    "authors": [
+        "Alefe"
+    ],
+    "license": "MIT",
+    "homepage": "",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "underscore": "~1.8.3",
+        "jquery": "~2.1.4",
+        "select2": "~4.0.0",
+        "bootstrap": "~3.3.5",
+        "smalot-bootstrap-datetimepicker": "~2.3.5"
+    }
+}
