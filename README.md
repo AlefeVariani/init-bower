@@ -39,3 +39,10 @@ Atualizar pacotes
 Remover pacote
     
     bower uninstall jquery
+
+Alterar local download pacotes
+
+	Remova pasta bower_components
+	Crie arquivo .bowerrc
+	Insira {"directory" : "public/bower_components"}
+	Execute bower install
